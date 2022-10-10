@@ -1,0 +1,44 @@
+package com.javarush.task.jdk13.task34.task3410;
+
+import java.lang.reflect.Field;
+import java.lang.reflect.Modifier;
+import java.util.Arrays;
+
+/* 
+Обнуление объекта
+Метод reset класса Solution должен "обнулить" (присвоить null) все приватные/не статические/не примитивные
+поля объекта object. Например, в примере приведенном в методе main должны "обнулиться" поля email и friends.
+*/
+
+public class Solution {
+
+    public static void main(String[] args) throws Exception {
+        User user = new User(28219, "Paulo", 40, 9999, "paulo@javarush.com");
+        System.out.println(user);
+        reset(user);
+        System.out.println(user);
+    }
+
+    public static void reset(Object object) throws Exception {
+                Field[] fields = object.getClass().getDeclaredFields();
+//        System.out.println(Arrays.toString(fields));
+        for (Field field :
+                fields) {
+            if (Modifier.isPrivate(field.getModifiers())
+                    && !Modifier.isStatic(field.getModifiers())
+                    && !field.getType().isPrimitive()) {
+                field.setAccessible(true);
+                field.set(object, null);
+//                System.out.println(field.getName() + " - " + field.getModifiers());
+            }
+        }
+        /*for (Field field : object.getClass().getDeclaredFields()) {
+            if (Modifier.isPrivate(field.getModifiers())
+                    && !Modifier.isStatic(field.getModifiers())
+                    && !field.getType().isPrimitive()) {
+                field.setAccessible(true);
+                field.set(object, null);
+            }
+        }*/
+    }
+}
