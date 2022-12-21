@@ -11,7 +11,7 @@ import static com.javarush.task.jdk13.task41.task4103.blood.BloodSample.RhFactor
 
 public class BloodDB implements DB {
 
-    private static final Map<Integer, BloodSample> DB = new HashMap<>() {{
+    private static final Map<Integer, BloodSample> DB = new HashMap<Integer, BloodSample>() {{
         put(122, new BloodSample(122, "Mike", "Donovan", new Object(), A, NEGATIVE));
         put(123, new BloodSample(123, "Jamie", "Jaworski", new Object(), O, POSITIVE));
         put(124, new BloodSample(124, "Matt", "Chambers", new Object(), AB, POSITIVE));

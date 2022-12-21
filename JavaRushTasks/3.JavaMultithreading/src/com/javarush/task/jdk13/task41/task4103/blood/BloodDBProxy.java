@@ -21,7 +21,7 @@ public class BloodDBProxy implements DB {
         String password = "";
         System.out.println("Enter login");
 
-        var sysIn = System.in;
+        java.io.InputStream sysIn = System.in;
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         try {
             login = reader.readLine();

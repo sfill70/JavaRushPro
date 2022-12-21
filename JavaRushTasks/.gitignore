@@ -8,11 +8,11 @@ target/
 *.iml
 *.iws
 
-*.java
+#*.java
 *.class
 *.info
 *.properties
-*.jar
+#*.jar
 
 
 /out/

@@ -13,7 +13,7 @@ public class SecuritySystem {
 
     private boolean isAuthorized;
 
-    private static final Map<String, Account> authorizedUsers = new HashMap<>() {{
+    private static final Map<String, Account> authorizedUsers = new HashMap<String, Account>() {{
         put("admin", new Account(1, "Admin", "Admin", new Object(), "admin", "123"));
         put("locked", new Account(7, "Sherlock", "Holmes", new Object(), "locked", "sher"));
         put("Dexter_39476", new Account(13, "Dexter", "Morgan", new Object(), "Dexter_39476", "Harry"));
