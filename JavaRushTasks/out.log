@@ -48836,3 +48836,147 @@ java.lang.StringIndexOutOfBoundsException: begin -1, end 46, length 46
 2022-12-21 16:14:58 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
 2022-12-21 16:14:58 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
 2022-12-21 16:14:58 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-21 16:56:33 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-21 16:56:33 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-21 16:56:39 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-21 16:56:39 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-21 16:56:46 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-21 16:56:49 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-12-21 16:56:49 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JavaRushPro/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/sql/task10/task1002
+2022-12-21 16:56:50 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-12-21 16:58:51 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-21 16:59:37 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-21 16:59:37 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-21 16:59:54 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-12-21 16:59:54 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-21 17:03:08 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-21 17:03:08 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-21 17:03:09 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-12-21 17:03:10 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JavaRushPro/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/sql/task10/task1003
+2022-12-21 17:03:10 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-12-21 17:04:26 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-21 17:09:56 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-21 17:09:56 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-21 17:10:03 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-12-21 17:10:03 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-21 17:44:31 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-21 17:44:31 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-21 17:44:34 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-12-21 17:44:34 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JavaRushPro/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/sql/task10/task1004
+2022-12-21 17:45:50 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-21 17:47:52 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-21 17:47:53 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-21 17:47:54 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-12-21 17:47:54 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-21 17:48:01 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-21 17:48:01 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-21 17:48:03 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-12-21 17:48:03 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JavaRushPro/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/sql/task10/task1005
+2022-12-21 17:48:03 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JavaRushPro/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/sql/task10/task1005/entities
+2022-12-21 17:48:03 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-12-21 18:02:23 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-21 18:08:44 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-21 18:08:44 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-21 18:08:52 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-12-21 18:08:53 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-21 18:11:36 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-21 18:11:36 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-22 20:50:17 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-22 20:50:17 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.02 ----------
+
+2022-12-22 20:50:17 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-22 20:50:17 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-22 20:50:17 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-22 20:50:17 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-23 17:44:35 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-23 17:44:35 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.02 ----------
+
+2022-12-23 17:44:35 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-23 17:44:36 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-23 17:44:36 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-23 17:44:36 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-23 17:53:52 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-23 17:53:52 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-23 17:53:55 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-12-23 17:53:55 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JavaRushPro/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/sql/task10/task1006
+2022-12-23 19:42:52 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-23 19:44:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-23 19:44:47 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-23 19:44:57 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-12-23 19:44:57 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-23 19:45:36 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-23 19:45:36 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-23 19:45:46 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-23 19:45:47 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-23 19:45:48 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-12-23 19:45:48 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JavaRushPro/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/sql/task10/task1007
+2022-12-23 19:53:36 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-23 19:53:36 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-23 19:53:36 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-12-23 19:54:29 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-23 19:55:00 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-23 19:55:00 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-23 19:55:00 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-12-23 19:56:55 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-23 19:56:55 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-23 19:56:55 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-12-23 19:57:21 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-23 19:57:21 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-23 19:57:29 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-12-23 19:57:29 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-23 20:58:36 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-23 20:58:36 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-23 20:58:38 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-12-23 20:58:38 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JavaRushPro/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/sql/task10/task1008
+2022-12-23 21:03:14 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-23 21:03:15 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-23 21:03:15 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-12-23 21:03:29 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-23 21:03:29 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-23 21:03:39 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-12-23 21:03:39 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-23 21:03:51 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-23 21:03:51 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-23 21:03:53 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-12-23 21:03:53 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JavaRushPro/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/sql/task10/task1009
+2022-12-23 21:13:29 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-23 21:13:30 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-23 21:13:30 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-12-23 21:13:52 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-23 21:13:52 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-23 21:14:02 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-12-23 21:14:19 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-23 21:14:46 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-23 21:14:46 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-23 21:14:57 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-12-23 21:15:47 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-23 21:15:47 INFO  ApacheHttpClient.getFilteredTasks(336) - responseCode = 200
+2022-12-23 21:15:49 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-12-23 21:15:49 INFO  TaskInfoSelectorMouseListener.createDirectoryRecursive(78) - File created :D:/JavaRushPro/JavaRushTasks/3.JavaMultithreading/src/com/javarush/task/sql/task10/task1010
+2022-12-23 21:15:49 INFO  ApacheHttpClient.getTaskTemplateInfo(353) - responseCode = 200
+2022-12-25 11:50:41 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-25 11:50:41 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.02 ----------
+
+2022-12-25 11:50:41 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-25 11:50:41 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-25 11:50:41 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-25 11:50:41 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-26 12:07:08 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-26 12:07:08 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.02 ----------
+
+2022-12-26 12:07:08 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-26 12:07:08 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-26 12:07:08 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-26 12:07:08 INFO  ApacheHttpClient.startGA(36) - GAService started.
+2022-12-26 13:33:18 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-26 13:34:02 INFO  ApacheHttpClient.getWebResourceAsStream(502) - responseCode = 200
+2022-12-26 13:34:02 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-26 13:34:10 INFO  ApacheHttpClient.completed(32) - responseCode = 200
+2022-12-26 13:34:11 INFO  ApacheHttpClient.getTask(488) - responseCode = 200
+2022-12-27 17:08:50 INFO  ProjectStartupHandler.runActivity(74) - ---------- Project opened ----------
+2022-12-27 17:08:50 INFO  ProjectStartupHandler.runActivity(75) - ---------- Version 4.02 ----------
+
+2022-12-27 17:08:50 INFO  ApacheHttpClient.isSessionAppropriateWithSecretKey(602) - Waiting for server response.
+2022-12-27 17:08:51 INFO  ApacheHttpClient.refreshUserInfo(305) - responseCode = 200
+2022-12-27 17:08:51 INFO  ApacheHttpClient.refreshUserInfo(311) - User information received.
+2022-12-27 17:08:51 INFO  ApacheHttpClient.startGA(36) - GAService started.
