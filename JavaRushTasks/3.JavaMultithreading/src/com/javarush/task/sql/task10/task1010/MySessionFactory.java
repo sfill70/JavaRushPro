@@ -16,7 +16,7 @@ public class MySessionFactory {
         properties.put(Environment.URL, "jdbc:mysql://localhost:3306/test");
         properties.put(Environment.DIALECT, "org.hibernate.dialect.MySQLDialect");
         properties.put(Environment.USER, "root");
-        properties.put(Environment.PASS, "root");
+        properties.put(Environment.PASS, "q1w2e3r4ty");
 
         sessionFactory = new Configuration()
                 .setProperties(properties)

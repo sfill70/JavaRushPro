@@ -1,4 +1,4 @@
-package com.javarush.task.sql.task10.task1009;
+package com.javarush.task.sql.task13.task1302;
 
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
@@ -12,15 +12,18 @@ public class MySessionFactory {
 
     private MySessionFactory() {
         Properties properties = new Properties();
-        properties.put(Environment.DRIVER, "com.mysql.cj.jdbc.Driver");
+        properties.put(Environment.DRIVER, "com.mysql.jdbc.Driver");
         properties.put(Environment.URL, "jdbc:mysql://localhost:3306/test");
         properties.put(Environment.DIALECT, "org.hibernate.dialect.MySQLDialect");
+        properties.put("hibernate.connection.useUnicode", true);
+        properties.put("hibernate.connection.characterEncoding", "UTF-8");
+        properties.put("hibernate.connection.charSet", "UTF-8");
         properties.put(Environment.USER, "root");
-        properties.put(Environment.PASS, "q1w2e3r4ty");
+        properties.put(Environment.PASS, "root");
 
         sessionFactory = new Configuration()
                 .setProperties(properties)
-                .addAnnotatedClass(Employee.class)
+                .addAnnotatedClass(Author.class)
                 .buildSessionFactory();
     }
 
